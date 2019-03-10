@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.sda.JSONDataSets_RZ</mainClass>
+                            <mainClass>com.sda.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
